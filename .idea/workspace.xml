@@ -2,159 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b456b9d-8e5b-40c7-a195-2a4613e9b0dd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/core/Parser.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Parser.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/.svn/text-base/google.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/.svn/text-base/index.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/google.htm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/.svn/text-base/jquery.js.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/.svn/text-base/jquery.treeview.css.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/.svn/text-base/jquery.treeview.js.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/.svn/text-base/screen.css.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/images/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/images/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/images/.svn/prop-base/treeview-default-line.gif.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/images/.svn/prop-base/treeview-default.gif.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/images/.svn/text-base/treeview-default-line.gif.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/images/.svn/text-base/treeview-default.gif.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/images/treeview-default-line.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/images/treeview-default.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/jquery.treeview.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/jquery.treeview.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/js/screen.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/change_log.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/prop-base/example_callback.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/prop-base/example_extract_html.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/text-base/example_advanced_selector.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/text-base/example_basic_selector.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/text-base/example_callback.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/text-base/example_extract_html.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/text-base/example_modify_contents.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/.svn/text-base/simple_html_dom_utility.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/example_advanced_selector.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/example_basic_selector.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/example_callback.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/example_extract_html.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/example_modify_contents.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/.svn/prop-base/example_scraping_digg.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/.svn/prop-base/example_scraping_imdb.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/.svn/prop-base/example_scraping_slashdot.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/.svn/text-base/example_scraping_digg.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/.svn/text-base/example_scraping_imdb.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/.svn/text-base/example_scraping_slashdot.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/example_scraping_digg.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/example_scraping_imdb.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/scraping/example_scraping_slashdot.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/example/simple_html_dom_utility.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/firstpage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/.svn/prop-base/manual.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/.svn/prop-base/manual_api.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/.svn/prop-base/manual_faq.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/.svn/text-base/manual.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/.svn/text-base/manual_api.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/.svn/text-base/manual_faq.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/css/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/css/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/css/.svn/text-base/default.css.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/css/.svn/text-base/ui.tabs.css.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/css/default.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/css/ui.tabs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/img/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/img/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/img/.svn/prop-base/tab.png.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/img/.svn/text-base/tab.png.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/img/tab.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/js/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/js/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/js/.svn/text-base/jquery-1.2.3.pack.js.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/js/.svn/text-base/ui.tabs.pack.js.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/js/jquery-1.2.3.pack.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/js/ui.tabs.pack.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/manual.htm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/manual_api.htm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/manual/manual_faq.htm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/simple_html_dom.php" afterPath="$PROJECT_DIR$/core/simple_html_dom.php" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/all_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/callback_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/dom_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/element_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/invalid_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/jquery-1.2.3.pack.js.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/mass_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/memory_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/misc_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/performance_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/selector_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/slick_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/slickspeed.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/std_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/prop-base/strip_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/all_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/callback_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/dom_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/element_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/invalid_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/jquery-1.2.3.pack.js.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/mass_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/memory_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/misc_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/performance_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/selector_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/slick_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/slickspeed.htm.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/std_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/.svn/text-base/strip_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/all_test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/callback_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/dom_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/element_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/html/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/html/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/invalid_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/jquery-1.2.3.pack.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/mass_test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/memory_test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/misc_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/performance_test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/all-wcprops" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/dir-prop-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/entries" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/prop-base/all_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/prop-base/element_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/prop-base/memory_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/prop-base/performance_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/prop-base/selector_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/text-base/all_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/text-base/element_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/text-base/memory_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/text-base/performance_test.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/.svn/text-base/selector_testcase.php.svn-base" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/all_test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/element_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/memory_test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/performance_test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/reader/selector_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/selector_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/slick_test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/slickspeed.htm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/std_testcase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/strip_testcase.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -187,12 +36,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Parser.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Parser.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/Parser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="352">
+                <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -209,6 +71,7 @@
         <option value="$PROJECT_DIR$/Parser.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/core/Parser.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -296,12 +159,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518083393410</updated>
       <workItem from="1518083396311" duration="1932000" />
-      <workItem from="1519204227975" duration="812000" />
+      <workItem from="1519204227975" duration="1947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2744000" />
+    <option name="totallyTimeSpent" value="3879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="-1" width="1920" height="1081" extended-state="6" />
@@ -369,9 +232,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/Parser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
